@@ -36,7 +36,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://github.com/rahul1280"
+                href="https://github.com/Aviyash4321"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GitHub"
