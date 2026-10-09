@@ -111,13 +111,13 @@ const Footer = () => {
             <ul className="footer-contact-list">
               <li>
                 <span className="footer-contact-label">Email</span>
-                <a href="mailto:rahulmangal836@gmail.com">
-                  rahulmangal836@gmail.com
+                <a href=" suresh.yadav4626@gmail.com">
+                  suresh.yadav4626@gmail.com
                 </a>
               </li>
               <li>
                 <span className="footer-contact-label">Phone</span>
-                <a href="tel:+919876543210">+91 98765 43210</a>
+                <a href="tel:+916291386932">+91 6291386932</a>
               </li>
             </ul>
           </div>
